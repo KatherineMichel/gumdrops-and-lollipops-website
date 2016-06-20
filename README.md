@@ -1,3 +1,3 @@
-gumdrops-and-lollipops-website
-==============================
-See gh-pages branch for files
+# Gumdrops and Lollipops Website
+
+A Bootstrap prototype; See gh-pages branch for files
