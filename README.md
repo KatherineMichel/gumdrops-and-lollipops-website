@@ -1,2 +1,3 @@
-gumdrops-and-lollipops-website
-==============================
+# Gumdrops and Lollipops Website
+
+A Bootstrap prototype
